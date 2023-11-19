@@ -1,0 +1,12 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://esm.sh/fast-json-patch": "https://esm.sh/fast-json-patch@3.1.1"
+  },
+  "remote": {
+    "https://esm.sh/fast-json-patch@3.1.1": "ee92916ab1e4fd6ded64914fa46d841ad600979c2f9fbfedadb6749f811d061c",
+    "https://esm.sh/v133/fast-json-patch@3.1.1/denonext/fast-json-patch.mjs": "9007860190336aa381bde2411eb991d3d70fe378c0cc204f099d4fc9bd6b7619",
+    "https://esm.sh/v133/fast-json-patch@3.1.1/denonext/index.js": "611ba66c07322160f184cd4fb8bb716f46c3e9265ca20d5bcf69499524d9f77a",
+    "https://esm.sh/v133/fast-json-patch@3.1.1/index.js": "be302e122530f7210c6765fb12f959e6aed0d06603f59c8cc82965567efc2ffe"
+  }
+}
